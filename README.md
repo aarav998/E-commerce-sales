@@ -1,4 +1,5 @@
-![WhatsApp Image 2024-11-01 at 8 33 03 PM](https://github.com/user-attachments/assets/249d31ae-f907-4b2f-a9d8-c9c8eeb37180)
+![image](https://github.com/user-attachments/assets/bc4377da-a73d-406f-8de1-3968e44b43d5)
+
 
 
 # E-Commerce Data Analysis 
