@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-11-01 at 8 33 03 PM](https://github.com/user-attachments/assets/249d31ae-f907-4b2f-a9d8-c9c8eeb37180)
 # E-Commerce Data Analysis 
 
 This repository contains a data analysis project focused on an e-commerce website. The analysis uses two CSV files as data sources, and the final visualizations and insights are presented in a Power BI report (.pbix file).
